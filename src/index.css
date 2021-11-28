@@ -109,7 +109,8 @@ body {
   text-align: center;
   margin-left: 50px;
   margin-right: 10px;
-  margin-bottom: 50px;
+  margin-bottom: 100px;
+  padding-bottom: 50px;
   
 }
 
@@ -132,3 +133,4 @@ body {
   font-family: "Roboto", sans-serif;
   color: navy;
 }
+
