@@ -83,9 +83,9 @@ body {
 .search-form {
   display: block;
   margin: 0, auto;
-  margin-top: 50px;
+  margin-top: 10px;
   margin-left: 20px; 
-  padding-top: 20px;
+  
 }
 
 .local-temperature {
@@ -110,7 +110,7 @@ body {
   text-align: center;
   margin-left: 50px;
   margin-right: 10px;
-  margin-bottom: 100px;
+  margin-bottom: 50px;
   padding-bottom: 50px;
   
 }
